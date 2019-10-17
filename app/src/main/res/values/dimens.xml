@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="normal_x_margin">8dp</dimen>
+    <dimen name="normal_y_margin">8dp</dimen>
+    <dimen name="normal_x2_margin">16dp</dimen>
+    <dimen name="normal_y2_margin">16dp</dimen>
+    <dimen name="normal_x3_margin">24dp</dimen>
+    <dimen name="normal_y3_margin">24dp</dimen>
+    <dimen name="normal_x4_margin">32dp</dimen>
+    <dimen name="normal_y4_margin">32dp</dimen>
+    <dimen name="normal_x5_margin">64dp</dimen>
+    <dimen name="normal_y5_margin">64dp</dimen>
+</resources>
